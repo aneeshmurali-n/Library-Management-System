@@ -71,5 +71,5 @@ This Library Management System is a project designed to manage and keep track of
 ### File info :
 #### 1. Library Management System.pdf 
 SQL Queries With Output Screenshot<br>
-#### 2. SQL Script
+#### 2. SQL Script.sql
 Library Management System SQL Script File <br>
